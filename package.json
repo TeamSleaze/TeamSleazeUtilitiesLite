@@ -1,0 +1,14 @@
+{
+  "name": "com.teamsleaze.utilitieslite",
+  "version": "0.1.0",
+  "category": "Utility",
+  "displayName": "TeamSleaze Utilities Lite",
+  "description": "Utility Package [Lite]",
+  "unity": "2021.3",
+  "author": {
+    "name": "TeamSleaze",
+    "email": "sleazestiks.contact@gmail.com",
+    "url": "https://sleazestiks.github.io/"
+  },
+  "hideInEditor": false
+}
